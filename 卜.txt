@@ -2,7 +2,7 @@ git push -u origin master
 
 1、cd /mnt/f……….
 2、ls
-3、git remote add origin https://…………
+3、git remote add origin https://github.com/ryxkkxx/webCourse.git
 4、git push -u origin master
 
 
@@ -22,9 +22,20 @@ git push -u origin master
 
 改名字保存
 先进入web
-1、git config --global user.email “RenYuxi1@outlook.com”
-2、git config --global user.name “ryxkkxx”
-3、git status
+1、git config --global user.email "RenYuxi1@outlook.com"
+2、git config --global user.name "ryxkkxx"
+3、git status////
 4、git add .
 5、git commit -m “文字”
-6、git log
+6、git log////
+
+3、git remote add origin https://github.com/ryxkkxx/webCourse.git
+4、git push -u origin master
+1、git config —global user.email “RenYuxi1@outlook.com”
+2、git config —global user.name “ryxkkxx”
+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
+
+padding 内衬
+margin 边距
+content 内容
+border边框
