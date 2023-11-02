@@ -33,8 +33,14 @@ git push -u origin master
 4、git push -u origin master
 1、git config —global user.email “RenYuxi1@outlook.com”
 2、git config —global user.name “ryxkkxx”
-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
+
 padding 内衬
 margin 边距
 content 内容
 border边框
+ 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  (新的密钥）
+
+. class
+# id
+
+上右下左  bottom下

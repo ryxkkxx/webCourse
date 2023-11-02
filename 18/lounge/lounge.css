@@ -1,6 +1,5 @@
 body {
-	font-size: small;
-	font-family: Verdana, Helvetica, Arial;
+  font: small Verdana, Helvetica, Arial;
 	line-height: 1.6em;
 }
 
@@ -17,30 +16,43 @@ h2 {
 }
 
 #guarantee {
-  border-color: white;
-  border-width: 1px;
-  border-style: dashed;
-  background-color:#007e7e;
+  border:white 1px dashed;
   padding: 25px;
   margin: 30px;
-  background-image: url(images/background.gif);
-  background-repeat: no-repeat;
   background-position: top left;
+  background: #007e7e url(images/background.gif)  no-repeat ;
   padding: 25px;
   padding-left: 80px;
   margin-right: 250px;
 }
 
 .elixirs {
-	border-width: thin;
-	border-style: solid;
-	border-color: #007e7e;
+  border: thin solid #007e7e;
 	width: 200px;/* width 属性允许指定内容区的宽度 */
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
+  padding:20px;
   margin-left: 20px;
-  background-image: url(images/cocktail.gif);
-  background-repeat: repeat-x;
+  background:url(images/cocktail.gif) repeat-x;
   text-align: center; /*文本居中对齐*/
 }
+
+.elixirs {
+	line-height: 1;
+}
+
+.elixirs h2 {
+  color: black;
+}
+
+.elixirs h3{
+  color:black
+}
+
+.cd {
+	font-style: italic;
+}
+
+.artist {
+	font-weight: bold;
+}
+
+
