@@ -1,0 +1,28 @@
+	h1, h2 {
+		font-weight: 600;
+	}
+
+  h1 {
+	  font-weight: 200;
+  }
+	h1, h2 {
+		font-weight: 400;
+	}
+  h1 {
+	  font-weight: 700;
+  }
+	green-font {
+		color: green;
+	}
+	red-font {
+		color: red;
+	}
+	blue-font {
+	color: blue;
+	}
+  .cname{
+  color:blueviolet;
+  }
+  p:first-child{
+  color:aqua;
+  }
