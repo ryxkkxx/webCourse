@@ -26,3 +26,12 @@
   p:first-child{
   color:aqua;
   }
+  p.cname{
+  color:bisque;
+  }
+  p{
+  color:aquamarine;
+  }
+  p span{
+  color:blue;
+  }
