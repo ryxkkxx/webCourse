@@ -44,3 +44,7 @@ border边框
 # id
 
 上右下左  bottom下
+
+cd #
+class .
+网页不能用id

@@ -1,0 +1,74 @@
+body {
+  font: small Verdana, Helvetica, Arial;
+	line-height: 1.6em;
+}
+
+h1, h2 {
+	color: #007e7e; /* 将标题设置为一种青绿色，使他和 logo 更相合 */
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+
+#guarantee {
+  border:white 1px dashed;
+  padding: 25px;
+  margin: 30px;
+  background-position: top left;
+  background: #007e7e url(images/background.gif)  no-repeat ;
+  padding: 25px;
+  padding-left: 80px;
+  margin-right: 250px;
+}
+
+.elixirs {
+  border: thin solid #007e7e;
+	width: 200px;/* width 属性允许指定内容区的宽度 */
+  padding:20px;
+  margin-left: 20px;
+  background:url(images/cocktail.gif) repeat-x;
+  text-align: center; /*文本居中对齐*/
+  float:right;
+}
+
+.elixirs {
+	line-height: 1;
+}
+
+.elixirs h2 {
+  color: black;
+}
+
+.elixirs h3{
+  color:black
+}
+
+.cd {
+	font-style: italic;
+}
+
+.artist {
+	font-weight: bold;
+}
+
+.elixirs a:link {
+  color: #007e7e;
+}
+
+.elixirs a:visited {
+  color: #333333;
+}
+
+.elixirs a:hover {
+  background: #f88396;
+  color: #0d5353;
+}
+
+
+
+
