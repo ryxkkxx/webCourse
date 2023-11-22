@@ -72,4 +72,11 @@ div.talbeRow {
   display: table-row;
 }
 
+.drinks {
+display: table-cell;
+vertical-align: top;
+background-color: #efe5d0;
+padding: 15px;
+}
+
 
