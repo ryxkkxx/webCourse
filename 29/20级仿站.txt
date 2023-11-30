@@ -1,0 +1,10 @@
+1  https://www.louvre.fr/               法国卢浮宫
+2  https://web.ub.edu/es/inicio         西班牙巴塞罗那大学
+3  https://ewha.ac.kr/ewha/index.do     韩国梨花女子大学
+4  https://www.president.go.kr/         韩国青瓦台政府官网
+5  https://www.kamikochi.or.jp/         日本上高地旅游
+6  https://www.nps.gov/yell/index.htm   美国国家公园
+7  https://www.kobelco.co.jp/index.html 神户制钢所（造假闻名）
+8  https://www.att.com/                 美国 ATT 官网
+9  https://www.britishmuseum.org/       大英博物馆（全球抢劫）
+10 https://www.bandainamcoent.co.jp/    南梦宫官网
