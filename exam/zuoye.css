@@ -3,3 +3,17 @@ background-color: black;
 color: azure;
 line-height: 1.6em;
 }
+
+.lianjie a:link {
+  color:aliceblue;
+  text-decoration: none;
+}
+
+.lianjie a:visited {
+  color:aliceblue;
+}
+
+.lianjie a:hover {
+  color:aliceblue;
+  text-decoration: underline;
+}
