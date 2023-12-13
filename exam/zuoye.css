@@ -4,6 +4,35 @@ color: azure;
 line-height: 1.6em;
 }
 
+.menu{
+float: right;
+font-weight: bolder;
+margin-left:2%;
+}
+
+.search{
+float: right;
+font-weight: bolder;
+border-right:0.5px solid #696969;
+margin-left:2%;
+}
+
+.national{
+float: top;
+font-size:18px;
+font-weight: bolder;
+/* bolder 大 */
+}
+
+
+.picture{
+float:top;
+width: 0px;
+height:auto;
+position: absolute;
+/* absolute 绝对   auto自动   */
+}
+
 a:link {
   color:aliceblue;
   text-decoration: none;
@@ -17,22 +46,3 @@ a:hover {
   color:aliceblue;
   text-decoration: underline;
 }
-
-.menu{
-float: right;
-}
-
-.search{
-float: right;
-}
-
-.national{
-float: left;
-}
-
-.picture{
-float:left;
-width: 10px;
-height: 50px;
-}
-
