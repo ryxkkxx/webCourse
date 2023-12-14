@@ -25,10 +25,8 @@ font-weight: bolder;
 }
 
 
-.picture{
+.p{
 float:top;
-width: 0px;
-height:auto;
 position: absolute;
 /* absolute 绝对   auto自动   */
 }
@@ -47,6 +45,6 @@ a:hover {
   text-decoration: underline;
 }
 
-.d{
-float:right;
+.a,.b,.c,.d{
+display: inline;
 }
