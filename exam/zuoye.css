@@ -1,35 +1,52 @@
 body{
-background-color: black;
 color: azure;
-line-height: 1.6em;
 }
 
-.menu{
-float: right;
-font-weight: bolder;
-margin-left:2%;
+*{
+margin: 0.1px;
+padding: 0px;
+/* padding内边距
+   margin外边距 整体对网页的边距 */
 }
 
-.search{
-float: right;
-font-weight: bolder;
-border-right:0.5px solid #696969;
-margin-left:2%;
+.top{
+height: 52px;
+background-color: black;
+}
+
+.i{
+position: relative;
+left: 0px;
+bottom: 10px;
+float: left;
+margin: 17px;
 }
 
 .national{
-float:left;
-font-size:18px;
-font-weight: bolder;
-/* bolder 大 */
+padding-top: 13px;
+}
+
+.right{
+float: right;
+margin-bottom:10px;
+margin-top: -20px;
+margin-right: 25px;
+
+}
+
+.kuang{
+margin-right: 0px;
+margin-left: 5px;
+margin-bottom:0px;
+margin-top: 0px;
+border-left-style:solid;
 }
 
 
-.p{
-float:top;
-position: absolute;
-/* absolute 绝对   auto自动   */
-}
+
+
+
+
 
 a:link {
   color:aliceblue;
@@ -44,7 +61,7 @@ a:hover {
   color:aliceblue;
   text-decoration: underline;
 }
-
+/*
 .a,.b,.c,.d{
 display: inline;
-}
+} */
