@@ -1,0 +1,59 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+.header{
+width:100%;
+height: 50px;
+background-color: black;
+}
+
+/* .i{
+position: relative;
+left: 0px;
+bottom: 10px;
+float: left;
+margin: 17px;
+} 对logo图片的修改*/
+
+.da{
+width: 100%;
+height: 400px;
+background-color:darkgrey;
+}
+
+.part1{
+float: left;
+padding: 16px 10px 16px 10px;
+}
+
+.part2{
+float:left;
+padding: 16px 10px 16px 10px;
+}
+
+.part3{
+float: left;
+padding: 16px 10px 16px 10px;
+}
+
+.part4{
+float: left;
+padding: 16px 10px 16px 10px;
+}
+
+
+a:link {
+  color:aliceblue;
+  text-decoration: none;
+}
+
+a:visited {
+  color:aliceblue;
+}
+
+a:hover {
+  color:aliceblue;
+  text-decoration: underline;
+}
