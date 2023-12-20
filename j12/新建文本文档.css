@@ -1,0 +1,158 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    width: 100%;
+    height: 55px;
+    background-color: black;
+}
+
+.d{
+    width: 100%;
+    height: 30px;
+    background-color:rgb(70, 70, 70);;
+}
+
+.da{
+    width: 100%;
+    height: 400px;
+    background-color:rgb(114, 113, 111);
+}
+.tupian1{
+    padding: 10px;
+}
+
+
+
+.national{
+    color:aliceblue;
+    margin-left:7px;
+}
+/* 文字的高度没调 */
+
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
+/* 去除下划线和默认蓝色颜色样式 */
+
+.kuai1{
+float: right;
+}
+
+.kuai ul{
+list-style-type: none;
+}
+
+.kuai li{
+float:right;
+}
+
+.kuai li a{
+display: block;
+color: white;
+text-align: center;
+padding: 6px 12px;
+text-decoration: none;
+margin: 0px 8px 0px 0px;
+}
+
+.kuai li :hover{
+background-color:dimgrey
+}
+    
+    
+    /* ul{
+        list-style: none;
+        background: black;
+        text-align: end;
+    }
+
+
+
+    ul li a{
+        background: black;
+        display: block;
+        padding:20px 45px;
+        color:white;
+        text-decoration: none;
+        font-size:25px;
+        font-weight:bold;
+        text-align:center;
+    }
+
+    .drop{
+        text-align: center;
+        color: white;
+        display: block;
+        width: 230px;
+        padding: 20px;
+        background: black;
+        position: absolute;
+        z-index: l;
+        border-bottom-left-radius: 10px;
+        top:70px;
+        right: 0px;
+    }
+
+    ul li a:hover ul.drop{
+        display: block;
+    } */
+
+
+
+    
+    .part1{
+    float:left;
+    padding: 16px 10px 16px 10px;
+    text-align: left;  
+
+    }
+
+    .part1 ul li{
+        list-style-type:none;
+        padding: 6px 10px;
+
+    }
+
+    .part2 ul li{
+        list-style-type:none;
+        padding: 6px 10px;
+    }
+
+    .part3 ul li{
+        list-style-type:none;
+        padding: 6px 10px;
+    }
+
+    .part2{
+    float:left;
+    padding: 16px 10px 16px 10px;
+    }
+    
+    .part3{
+    float: left;
+    padding: 16px 10px 16px 10px;
+    }
+    
+    .part4{
+    float: left;
+    padding: 16px 10px;
+    }
+    
+    
+    a:link {
+      color:aliceblue;
+      text-decoration: none;
+    }
+    
+    a:visited {
+      color:aliceblue;
+    }
+    
+    a:hover {
+      color:aliceblue;
+      text-decoration: underline;
+    }
