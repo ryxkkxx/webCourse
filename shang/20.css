@@ -3,30 +3,28 @@
   padding: 0px;
 }
 
+
+
 .header{
   width: 100%;
   height: 57px;
   background-color: black;
 }
 
-.tu1{
-  padding: 26px 34.45;
-}
-
 .nation{
   color:aliceblue;
-  margin-left:7px;
+  margin-left:149px;
 }
 
 
 .key{
   text-align:center;
-  color: rgb(107, 107, 107);
+  color: rgba(160, 160, 160, 0.836);
   margin: 0px 8px 0px 0px;
   padding: 6px 12.3px;
   /* margin-bottom: 5px;  */
   width: 272px;
-  height: 31.6px;
+  height: 28.6px;
   background-color:white;
   border: 1px solid #ced4da;
   border-top-left-radius: 0.375rem;
@@ -36,22 +34,22 @@
   float: right;
 }
 
-.k{
-  font-size: 16px;
-  margin: 0px 12.8px;
-}
+/* 调不了文字位置.k{
+display: block;
+position: relative;
+left: 20px;
+} */
 
 .a,.b{
-color: rgb(255, 255, 255);
-background-color: rgb(94, 94, 94);
-width: 6rem;
-height: 46.6px;
+color: rgb(0, 0, 0);
+background-color:#6c757d;
+width: 5.8rem;
+height: 44.6px;
 border-radius: 0.375rem;
 font-family: inherit;
 float: right;
 margin: 0px 8px 0px 0px;
 }
-
 
 .search{
 color:#ffffff;
@@ -79,7 +77,9 @@ color:#ffffff;
 
 .xiayi{
   float: right;
-  padding-top: 4px;
+  padding-top: 6px;
+  position: relative;
+  right: 102px;
 }
 
 a{
